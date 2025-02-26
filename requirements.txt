@@ -7,3 +7,4 @@ matplotlib==3.8.0
 pandas==2.2.1
 cryptography==41.0.0
 requests==2.31.0
+plotly==6.0.0
