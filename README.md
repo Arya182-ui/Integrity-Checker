@@ -80,12 +80,7 @@ notify_all("File 'example.txt' changed!", level="CRITICAL", recipient_email="use
 ## **🔔 Alerts & Reports**
 
 **Notifications**: Console, Email, Slack with priority levels (Info, Warning, Critical)
-**Reports**: Weekly automated PDF summaries
-
-## ☕ Support Me
-
-Do you like My projects? You can show your support by buying me a coffee! Your contributions motivate me to keep improving and building more awesome projects. 💻❤  
-[![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](http://buymeacoffee.com/Arya182)
+**Reports**: Weekly automated PDF summaries.
 
 
 ## **👥 Contributors**
@@ -93,3 +88,9 @@ Do you like My projects? You can show your support by buying me a coffee! Your c
 **Ayush Gangwar** - Developer
 
 Open to contributions! 🤝
+
+
+## ☕ Support Me
+
+Do you like My projects? You can show your support by buying me a coffee! Your contributions motivate me to keep improving and building more awesome projects. 💻❤  
+[![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](http://buymeacoffee.com/Arya182)
