@@ -1,0 +1,9 @@
+watchdog==3.0.0
+slack_sdk==3.21.0
+python-dotenv==1.0.1
+supabase-py==2.1.0
+reportlab==4.0.0
+matplotlib==3.8.0
+pandas==2.2.1
+cryptography==41.0.0
+requests==2.31.0
