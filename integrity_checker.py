@@ -1,3 +1,5 @@
+# This file is for a small Integrity Checker if you want just see how it works or you just want to try then you should use this 
+
 import hashlib
 import smtplib
 from email.mime.text import MIMEText
