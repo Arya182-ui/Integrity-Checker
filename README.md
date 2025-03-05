@@ -21,8 +21,8 @@ It ensures files are untampered by monitoring changes and providing real-time al
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/yourusername/integrity-checker.git
-   cd integrity-checker
+   https://github.com/Arya182-ui/Integrity-Checker.git
+   cd Integrity-Checker
 
 2. **Install dependencies**
 
